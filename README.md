@@ -48,11 +48,6 @@ My goals: to invest myself 100% and learn continuously🚀.</div>
 
 <br/>  
 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3126nw4m7xgvb6ayo7qq6zun6r6i&cover_image=true&theme=default&bar_color=0b08b4&bar_color_cover=true" /></div>  
-
-<br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://dev.to/tigercoder" target="_blank">
