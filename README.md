@@ -3,10 +3,6 @@
 </div>  
 
 
-### <div align="center">I'm Aristide Tiger  👨‍💻 and  decided to become a developer to finally do the job I am passionate about. For that, I follow a quality training in one of the best universities of Lome ESGIS. I specialized in web development, UI/UX design and the use of FIGMA. My curiosity and my inexhaustible thirst to learn currently lead me to learn React.js and Vue.Js however I already master some frameworks 
-My goals: to invest myself 100% and learn continuously🚀.</div>  
-
-
 - 🔭 I’m currently working on a cloud Storage system  
 
 
