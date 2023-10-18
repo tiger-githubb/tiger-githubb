@@ -14,6 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tiger-githubb'&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiger-githubb&langs_count=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
