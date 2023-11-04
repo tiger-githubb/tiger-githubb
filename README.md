@@ -9,7 +9,6 @@
 # 📊 GitHub Stats:
 [![Tiger-github's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiger-githubb&show=prs_merged_percentage&show_icons=true&theme=tokyonight&rank_icon=github&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tiger-githubb'&theme=radical&hide_border=false&card_width=500px)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiger-githubb&hide_progress=true&theme=tokyonight&langs_count=12&&card_width=500px)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tiger-githubb&no-bg=true$&rank=-B,-C,-D,-?)
@@ -17,10 +16,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tiger-githubb&&style=flat-square" align="center" />
+  <a href="https://user-badge.committers.top/togo/tiger-githubb"><img src="https://user-badge.committers.top/togo/tiger-githubb.svg" align="center"/>
+</a>
+
 </div>  
