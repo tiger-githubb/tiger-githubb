@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on somting cool<br>🌱 I’m currently learning Next.js<br>⚡ Fun fact: I use tabs over spaces
+🔭 I’m currently working on somting cool<br>🌱 I am currently passionate about Next.js<br>⚡ Fun fact: I use tabs over spaces
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aristide-karbou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ecrit_le) 
